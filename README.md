@@ -28,4 +28,4 @@ Model Architecture:
 
 ![model](https://github.com/rajasarmadishtiaq/BrainTumorDetection/assets/60262105/32a9f9ec-cbca-4c6c-93eb-6d3426ba6284)
 
-Additional image preprocessing can be done and i am confident it might improve the model. Furthermore, an interesting thing to research would be to balance the total images for tumor classes i.e., meningioma + glioma + pituitary and non tumor class by increase the amount of images in the non tumor class. The model perfomance *might* also increase with this addition.
+Additional image preprocessing can be done and i am confident it *might* improve the model. Furthermore, an interesting thing to research would be to balance the total images for tumor classes i.e., meningioma + glioma + pituitary and non tumor class by increasing the amount of images in the non tumor class. The model perfomance *might* also increase with this addition.
